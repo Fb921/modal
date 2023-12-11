@@ -1,5 +1,5 @@
 {
-  "name": "modal",
+  "name": "@fb921/modal",
   "version": "0.1.0",
   "private": false,
   "main": "dist/index.es.js",
